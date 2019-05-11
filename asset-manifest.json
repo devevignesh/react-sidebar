@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-sidebar/static/css/main.b9e83306.chunk.css",
+    "main.js": "/react-sidebar/static/js/main.68824069.chunk.js",
+    "main.js.map": "/react-sidebar/static/js/main.68824069.chunk.js.map",
+    "runtime~main.js": "/react-sidebar/static/js/runtime~main.36345e90.js",
+    "runtime~main.js.map": "/react-sidebar/static/js/runtime~main.36345e90.js.map",
+    "static/css/2.266e55a5.chunk.css": "/react-sidebar/static/css/2.266e55a5.chunk.css",
+    "static/js/2.190bb210.chunk.js": "/react-sidebar/static/js/2.190bb210.chunk.js",
+    "static/js/2.190bb210.chunk.js.map": "/react-sidebar/static/js/2.190bb210.chunk.js.map",
+    "index.html": "/react-sidebar/index.html",
+    "precache-manifest.f8a0c82b20b20946d8a39c49c69af097.js": "/react-sidebar/precache-manifest.f8a0c82b20b20946d8a39c49c69af097.js",
+    "service-worker.js": "/react-sidebar/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/react-sidebar/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.b9e83306.chunk.css.map": "/react-sidebar/static/css/main.b9e83306.chunk.css.map"
+  }
+}
